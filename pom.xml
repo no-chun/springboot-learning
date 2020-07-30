@@ -11,6 +11,7 @@
     <modules>
         <module>start</module>
         <module>basicconfig</module>
+        <module>mybatis</module>
     </modules>
 
 
