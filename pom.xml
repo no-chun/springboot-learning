@@ -12,6 +12,8 @@
         <module>start</module>
         <module>basicconfig</module>
         <module>mybatis</module>
+        <module>jdbcdemo</module>
+        <module>aopdemo</module>
     </modules>
 
 
