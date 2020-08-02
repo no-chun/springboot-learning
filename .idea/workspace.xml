@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="58e5c075-660a-489c-823d-46ec6364a4f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basicconfig/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basicconfig/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basicconfig/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basicconfig/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basicconfig/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basicconfig/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basicconfig/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basicconfig/src/main/java/com/chun/basicconfig/BasicconfigApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basicconfig/src/main/java/com/chun/basicconfig/Property.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basicconfig/src/main/java/com/chun/basicconfig/TestConfigBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basicconfig/src/main/java/com/chun/basicconfig/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basicconfig/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basicconfig/src/main/resources/banner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basicconfig/src/main/resources/test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basicconfig/src/test/java/com/chun/basicconfig/BasicconfigApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/src/main/java/com/chun/start/StartApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/src/main/java/com/chun/start/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/src/test/java/com/chun/start/StartApplicationTests.java" afterDir="false" />
+    <list default="true" id="58e5c075-660a-489c-823d-46ec6364a4f5" name="Default Changelist" comment="complete jdbcTemplate demo">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicconfig/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicconfig/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicconfig/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +44,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="HTTP Request" />
         <option value="Class" />
       </list>
     </option>
@@ -52,10 +56,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\software\apps\IDEA-U\ch-0\202.6397.94\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="1Y0x6Y7wrTtIOUSOEjSzLAFngRd" />
@@ -64,24 +68,275 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="h2&#10;mysql" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/aopdemo/src/main/java/com/chun/aopdemo/util" />
+    <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
   </component>
-  <component name="RunManager" selected="Spring Boot.BasicconfigApplication">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.chun.jdbcdemo.service" />
+      <recent name="com.chun.jdbcdemo.dao.impl" />
+      <recent name="com.chun.mybatis.mapper" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\springboot-learning\aopdemo\src\main\java\com\chun\aopdemo\util" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/uid" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/user" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:8080/user" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="1" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/user" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;name&quot;: &quot;tom&quot;,&#10;  &quot;password&quot;: &quot;123456&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/user/2" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/users" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:8080/user" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="[1]" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:8080/user" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="[&#10;  1]" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:8080/user" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="[1]" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/user/1" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RedisApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generated-requests#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="RedisApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chun.redis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chun.redis" />
+      <option name="MAIN_CLASS_NAME" value="com.chun.redis.RedisApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chun.redis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chun.redis" />
+      <option name="MAIN_CLASS_NAME" value="com.chun.redis.RedisApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisApplicationTests.testSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chun.redis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chun.redis" />
+      <option name="MAIN_CLASS_NAME" value="com.chun.redis.RedisApplicationTests" />
+      <option name="METHOD_NAME" value="testSet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisApplicationTests.testUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chun.redis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chun.redis" />
+      <option name="MAIN_CLASS_NAME" value="com.chun.redis.RedisApplicationTests" />
+      <option name="METHOD_NAME" value="testUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AopdemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="aopdemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chun.aopdemo.AopdemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BasicconfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="basicconfig" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.chun.basicconfig.BasicconfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcdemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jdbcdemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chun.jdbcdemo.JdbcdemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chun.mybatis.MybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chun.redis.RedisApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -93,7 +348,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests#1" />
+        <item itemvalue="JUnit.RedisApplicationTests.testUser" />
+        <item itemvalue="JUnit.RedisApplicationTests" />
+        <item itemvalue="JUnit.RedisApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.RedisApplicationTests.testSet" />
+      </list>
+    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -104,56 +369,214 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582093137488</updated>
-      <workItem from="1582093140848" duration="7428000" />
+      <workItem from="1582093140848" duration="7672000" />
+      <workItem from="1596071846340" duration="7236000" />
+      <workItem from="1596079876319" duration="3087000" />
+      <workItem from="1596084044335" duration="1375000" />
+      <workItem from="1596092690293" duration="2465000" />
+      <workItem from="1596161285242" duration="11044000" />
+      <workItem from="1596247270493" duration="5320000" />
+      <workItem from="1596292088582" duration="1021000" />
+      <workItem from="1596331000157" duration="109000" />
+      <workItem from="1596349871922" duration="7631000" />
     </task>
+    <task id="LOCAL-00001" summary="complete mybatis project">
+      <created>1596095111034</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596095111034</updated>
+    </task>
+    <task id="LOCAL-00002" summary="complete jdbcTemplate demo">
+      <created>1596183461927</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596183461927</updated>
+    </task>
+    <task id="LOCAL-00003" summary="complete aop demo">
+      <created>1596293092360</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596293092360</updated>
+    </task>
+    <task id="LOCAL-00004" summary="complete redis demo">
+      <created>1596358450459</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596358450459</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="complete mybatis project" />
+    <MESSAGE value="complete jdbcTemplate demo" />
+    <MESSAGE value="complete aop demo" />
+    <MESSAGE value="complete redis demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete redis demo" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1582100559510">
+    <state x="361" y="53" key="#Plugins" timestamp="1596080078261">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582100559510" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1582100559510">
+    <state x="361" y="53" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1596080078261" />
+    <state x="179" y="253" key="#SQL_Dialects" timestamp="1596167092822">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582100559510" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1582100559510">
+    <state x="179" y="253" key="#SQL_Dialects/0.0.1536.824@0.0.1536.824" timestamp="1596167092822" />
+    <state x="31" y="128" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596350352516">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582100559510" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1582100559510">
+    <state x="31" y="128" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1596350352516" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1596085449106">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582100559510" />
-    <state width="1493" height="210" key="GridCell.Tab.1.bottom" timestamp="1582100026479">
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1596085449106" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1596351995775">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582100026479" />
-    <state width="1493" height="210" key="GridCell.Tab.1.center" timestamp="1582100026479">
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1596351995775" />
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596250982951">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582100026479" />
-    <state width="1493" height="210" key="GridCell.Tab.1.left" timestamp="1582100026478">
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1596250982951" />
+    <state x="566" y="269" key="#com.intellij.ws.actions.HttpClientConvertFromCurlDialog" timestamp="1596180714564">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582100026478" />
-    <state width="1493" height="210" key="GridCell.Tab.1.right" timestamp="1582100026479">
+    <state x="566" y="269" key="#com.intellij.ws.actions.HttpClientConvertFromCurlDialog/0.0.1536.824@0.0.1536.824" timestamp="1596180714564" />
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1596358447978">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582100026479" />
-    <state x="178" y="116" key="new project wizard" timestamp="1582096290085">
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596358447978" />
+    <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1596248157755">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="178" y="116" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1582096290085" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582100184309">
+    <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596248157755" />
+    <state width="1493" height="268" key="GridCell.Tab.0.bottom" timestamp="1596356280158">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582100184309" />
+    <state width="1493" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596356280158" />
+    <state width="1493" height="268" key="GridCell.Tab.0.center" timestamp="1596356280158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="268" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596356280158" />
+    <state width="1493" height="268" key="GridCell.Tab.0.left" timestamp="1596356280158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="268" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596356280158" />
+    <state width="1493" height="268" key="GridCell.Tab.0.right" timestamp="1596356280158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="268" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596356280158" />
+    <state x="638" y="192" width="1202" height="208" key="GridCell.Tab.1.bottom" timestamp="1596354206995">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="638" y="192" width="1202" height="208" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596354206995" />
+    <state x="638" y="192" width="1202" height="208" key="GridCell.Tab.1.center" timestamp="1596354206995">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="638" y="192" width="1202" height="208" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596354206995" />
+    <state x="638" y="192" width="1202" height="208" key="GridCell.Tab.1.left" timestamp="1596354206995">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="638" y="192" width="1202" height="208" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596354206995" />
+    <state x="638" y="192" width="1202" height="208" key="GridCell.Tab.1.right" timestamp="1596354206995">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="638" y="192" width="1202" height="208" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596354206995" />
+    <state x="638" y="192" width="1202" height="288" key="GridCell.Tab.2.bottom" timestamp="1596167325967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="638" y="192" width="1202" height="288" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596167325967" />
+    <state x="638" y="192" width="1202" height="288" key="GridCell.Tab.2.center" timestamp="1596167325967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="638" y="192" width="1202" height="288" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1596167325967" />
+    <state x="638" y="192" width="1202" height="288" key="GridCell.Tab.2.left" timestamp="1596167325967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="638" y="192" width="1202" height="288" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1596167325967" />
+    <state x="638" y="192" width="1202" height="288" key="GridCell.Tab.2.right" timestamp="1596167325967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="638" y="192" width="1202" height="288" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1596167325967" />
+    <state width="277" height="477" key="HiddenNamespacesPopup" timestamp="1596181105819">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="277" height="477" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1596181105819" />
+    <state x="270" y="56" key="SettingsEditor" timestamp="1596351435251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596351435251" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1596095123411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596095123411" />
+    <state x="665" y="286" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1596077370572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="665" y="286" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.1536.824@0.0.1536.824" timestamp="1596077370572" />
+    <state x="656" y="296" width="334" height="250" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1596251704507">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="656" y="296" width="334" height="250" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.824@0.0.1536.824" timestamp="1596251704507" />
+    <state x="643" y="296" width="318" height="231" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog" timestamp="1596084919883">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="643" y="296" width="318" height="231" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog/0.0.1536.824@0.0.1536.824" timestamp="1596084919883" />
+    <state x="667" y="353" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1596167119632">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="667" y="353" key="com.intellij.database.run.ParametersPanel.Standalone/0.0.1536.824@0.0.1536.824" timestamp="1596167119632" />
+    <state x="707" y="145" width="744" height="540" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1596251432499">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="707" y="145" width="744" height="540" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1596251432499" />
+    <state x="537" y="181" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1596165373213">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="537" y="181" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1596165373213" />
+    <state x="638" y="192" width="515" height="249" key="dock-window-1" timestamp="1596076903401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="638" y="192" width="515" height="249" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1596076903401" />
+    <state x="178" y="72" key="new project wizard" timestamp="1596350739701">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="72" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1596350739701" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1596093285784">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1596093285784" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jdbcdemo/src/test/java/com/chun/jdbcdemo/dao/impl/UserDaoImplTest.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

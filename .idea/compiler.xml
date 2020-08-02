@@ -6,15 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springboot-learning" />
         <module name="basicconfig" />
+        <module name="jdbcdemo" />
+        <module name="mybatis" />
         <module name="start" />
+        <module name="aopdemo" />
+        <module name="redis" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="aopdemo" options="-parameters" />
       <module name="basicconfig" options="-parameters" />
+      <module name="jdbcdemo" options="-parameters" />
+      <module name="mybatis" options="-parameters" />
+      <module name="redis" options="-parameters" />
       <module name="start" options="-parameters" />
     </option>
   </component>
