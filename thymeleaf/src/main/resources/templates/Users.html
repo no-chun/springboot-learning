@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" th:href="@{/css/style.css}" type="text/css">
+</head>
+<body>
+<h1 th:text="${#dates.createNow()}">Time:</h1>
+<table>
+    <tr>
+        <th>id</th>
+        <th>name</th>
+        <th>age</th>
+    </tr>
+    <tr th:each="user, stat : ${userList}">
+        <td th:text="${stat.count}">1</td>
+        <td th:text="${user.name}">chun</td>
+        <td th:text="${user.age}">22</td>
+    </tr>
+</table>
+</body>
+</html>
