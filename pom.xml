@@ -17,6 +17,7 @@
         <module>aopdemo</module>
         <module>redis</module>
         <module>thymeleaf</module>
+        <module>jpademo</module>
     </modules>
 
 
