@@ -18,6 +18,13 @@
         <module>redis</module>
         <module>thymeleaf</module>
         <module>jpademo</module>
+        <module>actuator</module>
+        <module>controlleradvice</module>
+        <module>crontab</module>
+        <module>jpamult</module>
+        <module>mybatismult</module>
+        <module>redis</module>
+        <module>shirodemo</module>
     </modules>
 
 
