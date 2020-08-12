@@ -25,6 +25,8 @@
         <module>mybatismult</module>
         <module>redis</module>
         <module>shirodemo</module>
+        <module>spring-security-form-login-1</module>
+        <module>spring-security-form-login-2</module>
     </modules>
 
 
