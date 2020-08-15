@@ -28,6 +28,7 @@
         <module>spring-security-form-login-2</module>
         <module>spring-security-jpa</module>
         <module>spring-security-remember-me</module>
+        <module>spring-security-verifycode</module>
     </modules>
 
 
