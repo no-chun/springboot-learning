@@ -29,6 +29,7 @@
         <module>spring-security-jpa</module>
         <module>spring-security-remember-me</module>
         <module>spring-security-verifycode</module>
+        <module>spring-security-jwt</module>
     </modules>
 
 
