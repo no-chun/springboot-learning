@@ -23,6 +23,7 @@
         <module>crontab</module>
         <module>jpamult</module>
         <module>mybatismult</module>
+        <module>json</module>
         <module>shirodemo</module>
         <module>shiro-jwt</module>
         <module>spring-security-form-login-1</module>
