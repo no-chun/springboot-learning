@@ -25,6 +25,7 @@
         <module>mybatismult</module>
         <module>json</module>
         <module>filter-interceptor</module>
+        <module>springboot-test</module>
         <module>shirodemo</module>
         <module>shiro-jwt</module>
         <module>spring-security-form-login-1</module>
@@ -33,6 +34,7 @@
         <module>spring-security-remember-me</module>
         <module>spring-security-verifycode</module>
         <module>spring-security-jwt</module>
+        <module>spring-security-oauth2</module>
     </modules>
 
 
