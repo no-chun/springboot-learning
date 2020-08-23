@@ -35,6 +35,7 @@
         <module>spring-security-verifycode</module>
         <module>spring-security-jwt</module>
         <module>spring-security-oauth2</module>
+        <module>spring-security-oauth2-custom</module>
     </modules>
 
 
