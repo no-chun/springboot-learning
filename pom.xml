@@ -36,6 +36,7 @@
         <module>spring-security-jwt</module>
         <module>spring-security-oauth2</module>
         <module>spring-security-oauth2-custom</module>
+        <module>kafka-demo</module>
     </modules>
 
 
