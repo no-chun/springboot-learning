@@ -37,6 +37,7 @@
         <module>spring-security-oauth2</module>
         <module>spring-security-oauth2-custom</module>
         <module>kafka-demo</module>
+        <module>springboot-websocket</module>
     </modules>
 
 
